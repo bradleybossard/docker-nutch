@@ -3,7 +3,7 @@ FROM java:7-jre
 MAINTAINER Jonathan Gimeno <jgimeno@gmail.com>
 
 # Set last version
-ENV NUTCH_VERSION 1.10
+ENV NUTCH_VERSION 1.11
 
 # Set java env Variable
 ENV JAVA_HOME /usr
